@@ -1,0 +1,1 @@
+import{J as n,aB as r}from"./index-CL3rpHqJ.js";const a=s=>{const t=s.substring(s.lastIndexOf("."),s.length),e=n().mode=="dark"?`${s.substring(0,s.lastIndexOf("."))}-dark`:s.substring(0,s.lastIndexOf("."));return`/tms-live/media/illustrations/${r.value}/${e}${t}`},d=s=>"/tms-live/"+s;export{a,d as g};
