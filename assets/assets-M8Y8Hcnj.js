@@ -1,1 +1,0 @@
-import{J as n,aB as r}from"./index-D3_H9f2F.js";const d=s=>{const t=s.substring(s.lastIndexOf("."),s.length),e=n().mode=="dark"?`${s.substring(0,s.lastIndexOf("."))}-dark`:s.substring(0,s.lastIndexOf("."));return`/metronic8/vue/demo1/media/illustrations/${r.value}/${e}${t}`},a=s=>"/metronic8/vue/demo1/"+s;export{d as a,a as g};

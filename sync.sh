@@ -4,3 +4,9 @@
 rsync -av --delete --exclude='.git' --exclude='sync.sh' ../frontend-tms/dist/ .
 
 cp index.html 404.html
+
+git add .
+
+git commit -m 'chore: update'
+
+git push origin HEAD
