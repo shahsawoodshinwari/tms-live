@@ -1,0 +1,1 @@
+import{_ as n,c as t,a as e,o as r}from"./index-Ban5WxG-.js";const s={},a={class:"container h-100"};function c(l,o){return r(),t("div",a,o[0]||(o[0]=[e("h1",null,"Not Found",-1),e("p",null,"The page you are looking for couldn't be found.",-1)]))}const u=n(s,[["render",c]]);export{u as default};
